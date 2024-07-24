@@ -4,9 +4,9 @@ CodeSpier is like RemoteSpy but for mobile and has modifications.
 
 You can execute CodeSpier from here
 
-''' lua
-loadstring(game:HttpGet(""))()
-'''
+```lua
+loadstring(game:HttpGet(""))("CodeSpier")
+```
 
 # Executors you can use:
 
