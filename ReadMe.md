@@ -1,11 +1,11 @@
-# Codespier
+# SimpleSpy
 
-CodeSpier is like RemoteSpy but for mobile and has modifications.
+SimpleSpy is like RemoteSpy but for mobile and has modifications.
 
 You can execute CodeSpier from here
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/pkplaysrblx/codespier/main/obf_Bp0mC96sboM4oZZ6mU2sOy64yD5fEPK8qTZpy451VKyIyd7u9F8Xc3w9VI5Y0Kw8cVw4xG7wVgB6325aPQu1LTJvtt58IiaR"))("CodeSpier")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pkplaysrblx/codespier/main/obf_Bp0mC96sboM4oZZ6mU2sOy64yD5fEPK8qTZpy451VKyIyd7u9F8Xc3w9VI5Y0Kw8cVw4xG7wVgB6325aPQu1LTJvtt58IiaR"))("SimpleSpy")
 ```
 
 # Executors you can use:
